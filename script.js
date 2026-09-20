@@ -80,7 +80,7 @@ const EXPERIENCE = [
     meta: "Oct 2021 – May 2022",
     points: [
       "Developed reusable Python and PyTorch components for computer-vision and deep-learning research.",
-      "Collaborated on breast-cancer detection work achieving <b>98% model accuracy</b>, contributing to a <b>published paper</b>.",
+      "Collaborated on breast-cancer detection work achieving <b>89% model accuracy</b>, contributing to a <b>published paper</b>.",
     ],
   },
 ];

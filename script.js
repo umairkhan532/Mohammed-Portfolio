@@ -38,7 +38,7 @@ const EXPERIENCE = [
     company: "Koch Industries",
     meta: "Plano, TX · Jan 2024 – Present",
     points: [
-      "Design and deliver enterprise software, data-platform, and AI-enabled solutions using Python, TypeScript, AWS, Snowflake, Snowpark, dbt, SQL, and Power BI, supporting <b>20+ internal teams</b>.",
+      "Design and deliver enterprise software, data-platform, and AI-enabled solutions using Python, TypeScript, AWS, Snowflake, Snowpark, dbt, SQL, and Power BI, supporting <b>14+ internal teams</b>.",
       "Built a Snowpipe failure notification system with Microsoft Teams alerts and subscription workflows, <b>saving 120 hours annually</b> and cutting incident-detection time to under 5 minutes.",
       "Designed a Streamlit roadmapping app integrated with Azure DevOps, <b>reducing sprint-planning effort by 48 hours annually</b>.",
       "Led load and performance testing with <b>up to 5,000 concurrent users</b>, validating scalability and resilience under high-volume conditions.",
